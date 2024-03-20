@@ -1,7 +1,7 @@
 # Hi 👋 I am Sergey! 
 Я начинающий frontend-developer
 
-- 🌐 Visit my [portfolio website](https://github.com/GoldBoy1001/portfolio) for more information and to get in touch.
+- 🌐 Visit my [portfolio website](https://goldboy1001.github.io/portfolio/) for more information and to get in touch.
 
 
 ---
